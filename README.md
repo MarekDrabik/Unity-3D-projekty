@@ -7,4 +7,4 @@ Ovládanie pre mechanickú ruku je takéto: <br>
 >**w, s, d, a** = vodorovný pohyb <br>
 >**r, f** = zvislý pohyb <br>
 >**q, e** = rotácia ruky <br>
->**tlačidlá myši** = otváranie a zatváranie ruky
+>**ľavé/pravé tlačidlo myši** = otváranie/zatváranie ruky
