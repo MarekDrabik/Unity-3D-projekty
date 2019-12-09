@@ -1,4 +1,4 @@
-V tomto repository nájdete spúšťacie súbory na dve "hry", ktoré som vytvoril v Unity3D.
+V tomto repository nájdete spúšťacie súbory na dve simulácie, ktoré som vytvoril v Unity3D.
 
  * Mechanická ruka [(video link)](https://marekdrabik.github.io/mechanicka_ruka.mp4)
  * Výstrely šípov [(video link)](https://marekdrabik.github.io/sipy3.mp4)
